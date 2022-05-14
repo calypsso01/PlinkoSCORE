@@ -1,2 +1,1 @@
-# PlinkoSCORE
-Proyecto 32
+
